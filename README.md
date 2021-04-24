@@ -1,2 +1,2 @@
-# assistant
-PC小助手
+# Copy-Assistant
+PC复制小助手
